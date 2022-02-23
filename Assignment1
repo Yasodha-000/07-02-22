@@ -1,0 +1,5 @@
+print('program to find area of triangle')
+a=int(input('enter a value'))
+b=int(input('enter b value'))
+area=(a*b)/2
+print('area of a triangle : ' , area)
